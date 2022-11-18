@@ -1,0 +1,21 @@
+{
+  "name": "room",
+  "version": "1.0.0",
+  "description": "a chill space",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build"
+  },
+  "author": "Sheyla De los Santos",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.146.0"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
+    "dat.gui": "^0.7.9",
+    "parcel": "^2.8.0"
+  }
+}
