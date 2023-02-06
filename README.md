@@ -13,5 +13,5 @@
 - [Parcel](https://parceljs.org/)
 
 By Sheyla De los Santos 
-[Github](https://github.com/ssshhheeeyyy)
+[Github](https://github.com/ssshhheeeyyy) || 
 [Website](https://sheyladelossantos.onrender.com/)
